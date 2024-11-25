@@ -1,0 +1,86 @@
+@media screen and (max-width: 600px)  {
+    
+    .body-page{
+        display: flex;
+        flex-direction: column;
+    }
+}
+    
+.body-page{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.vertical-divH {
+    text-align: center;
+    background-color: #cccccc;
+    color: #6E5234;
+    padding: 20px;
+    box-shadow: 10px 10px 10000px #261B15;
+}
+
+.vertical-divH p {
+    font-size: 35px;
+    font-weight: 100px;
+    color:#6E5234 ;
+    font-family: "Aref Ruqaa";
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10;
+}
+
+.left-body{
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem 0 2rem;
+    align-items: center;
+}
+
+.imgComida {
+    height: 700px;
+    margin-top: 20px;
+    margin-bottom: 26px;
+}
+
+.lista {
+    font-family:"Aref Ruqaa";
+    font-size: 30px;
+    text-align:left;
+    /* margin-left: 50px; */
+    margin-top: 10px;
+}
+
+.polaroid {
+    height: 600px;
+}
+
+.polaroid-h1 {
+    font-size: 130px;
+    font-weight:lighter;
+    color: #cccccc;
+    font-family: "Mr De Haviland";
+    text-align: center;
+    margin-bottom: auto;
+}
+
+.text-wrapper{
+    width: 75%;
+    margin: auto;
+}
+
+.polaroid-p {
+    font-family:"Aref Ruqaa";
+    font-size: 40px;
+    margin-top: 5px;
+    color: #cccccc;
+    text-align: center;
+}
+
+.imgLocal {
+    position: relative;
+    /* width: 200px; */
+    margin-top: 50px;
+    margin-bottom: 0;
+    z-index: 10;
+}
+
