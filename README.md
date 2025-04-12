@@ -36,7 +36,7 @@ Voltada para *jovens e adultos, a cafeteria proporciona um ambiente **aconchegan
 
 Protótipos e design visual criados no Figma.
 
-![Protótipo Figma](.Imagens/Imagemfigma.png)
+![Protótipo Figma](Imagens/Imagemfigma.png)
 ---
 
 ## 🧠 Banco de Dados - Esquema Lógico
