@@ -23,12 +23,12 @@ Voltada para *jovens e adultos, a cafeteria proporciona um ambiente **aconchegan
 
 | Cor             | Hex       |
 |------------------|----------|
-| Marrom Escuro    | #261B15 |
-| Base Marrom      | #472E15 |
-| Café com Leite   | #A66D36 |
-| Marrom Café      | #6E5234 |
-| Creme            | #B8A77E |
-| Gelo             | #CCCCCC |
+| 	Shadow Black    | #261B15 |
+| Cafe Noir (Espresso)      | #472E15 |
+| Windsor Tan   | #A66D36 |
+| 	Coffee      | #6E5234 |
+| 	Sand            | #B8A77E |
+| 	Neon Silver            | #CCCCCC |
 
 ---
 
