@@ -1,5 +1,7 @@
 # 🌿 Hyacinth Castle - Projeto Teórico de Cafeteria
 
+![Logo da Cafeteria](./Imagens/LogoS.png)
+
 Uma cafeteria sustentável que prioriza o uso de alimentos cultivados no local, oferecendo um cardápio sazonal focado nos produtos da estação.
 Voltada para *jovens e adultos, a cafeteria proporciona um ambiente **aconchegante e calmo*, ideal para saborear um café enquanto trabalham ou leem.
 
