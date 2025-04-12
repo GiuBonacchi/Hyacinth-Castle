@@ -25,7 +25,7 @@
     color:#6E5234 ;
     font-family: "Aref Ruqaa";
     text-align: center;
-    margin-top: 10px;
+    margin-top: 40px;
     margin-bottom: 10;
 }
 
@@ -46,12 +46,13 @@
     font-family:"Aref Ruqaa";
     font-size: 30px;
     text-align:left;
-    /* margin-left: 50px; */
     margin-top: 10px;
 }
 
 .polaroid {
-    height: 600px;
+    height: 800px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .polaroid-h1 {
@@ -60,7 +61,7 @@
     color: #cccccc;
     font-family: "Mr De Haviland";
     text-align: center;
-    margin-bottom: auto;
+    margin: auto;
 }
 
 .text-wrapper{
@@ -78,9 +79,8 @@
 
 .imgLocal {
     position: relative;
-    /* width: 200px; */
-    margin-top: 50px;
-    margin-bottom: 0;
+    margin-top: px;
+    margin-bottom: 40px;
     z-index: 10;
 }
 

@@ -26,7 +26,7 @@ function chutar() {
 
 if (tentativa == 0) {
     result.innerHTML =
-      "acabaram as tentativas o número secreto era " + numeroAleatorio; 
+      "acabaram as tentativas o número da sorte era " + numeroAleatorio; 
       document.getElementById("buttonPromo").disabled = true
       
 }
